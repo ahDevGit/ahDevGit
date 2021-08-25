@@ -1,4 +1,4 @@
-gi<h1 align='center'>
+<h1 align='center'>
   Hello there 👋 I'm Ali Haider 👨‍💻
 </h1>
 
@@ -31,10 +31,10 @@ gi<h1 align='center'>
 ---
 
 <h3 align='center'>💻 Prefered technologies and languages</h3><br/>
+<p align='center'>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<p align='center'>
 </p>
 
 ---
