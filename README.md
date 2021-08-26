@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align='center'>
-  A junior web developer from Bangladesh, based on Riyadh.
+  A junior web developer from Bangladesh, based on Riyadh. 
 </h3>
 
 <p align='center'>
@@ -17,12 +17,6 @@
   <a href="mailto:justalihaider@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />        
   </a>&nbsp;&nbsp;
-  <!-- <a href="https://t.me/radrex1">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />        
-  </a>&nbsp;&nbsp;
-  <a href="https://stackoverflow.com/users/8540759/radrex?tab=profile">
-    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />        
-  </a>&nbsp;&nbsp; -->
   <a href="https://codepen.io/justalihaider">
     <img src="https://img.shields.io/badge/CodePen-3D3D3D?style=for-the-badge&logo=CodePen&logoColor=white" />        
   </a>&nbsp;&nbsp;
