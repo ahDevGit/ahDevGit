@@ -39,6 +39,6 @@
 
 - 💻 Working on becoming a full-stack developer.
 - 💬 Ask me anything about my projects!
-- 📫 How to reach me: justalihaider@gmail.com
+- 📫 How to reach me: contact@alihaider.dev
 - :octocat: My website: https://alihaider.dev/
 - 💡 I'm really passionate about all sorts of technology, trying to learn and try something new everyday.
