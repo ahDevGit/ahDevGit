@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align='center'>
-  A junior web developer from Bangladesh, based on Riyadh. 
+  Front-end Web developer from Bangladesh, based on Riyadh. 
 </h3>
 
 <br>
